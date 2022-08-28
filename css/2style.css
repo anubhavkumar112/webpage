@@ -1,0 +1,80 @@
+.second-section-container{
+    width: 80%;
+    margin: auto;
+    padding: auto;
+}
+
+.content-container{
+    width:49%;
+    text-align: center;
+    float: right;
+    border: 1px solid white;
+    margin-top: 9rem;
+    height: 33rem;
+
+}
+.image-container{
+    width: 43%;
+    align-items: center;
+    border: 1px solid white;
+    float: right;
+
+    
+margin-top: 7rem;
+margin-left: 5rem;
+margin-right: -1rem;
+}
+.image-containe img{
+    float: right;
+}
+
+
+
+.third-section-container{
+    width: 80%;
+    margin: auto;
+    padding: auto;
+}
+
+.third-content-container{
+    width: 49%;
+    text-align: center;
+    float: right;
+    border: 1px solid white;
+    margin-top: 5rem;
+  
+}
+.third-image-container{
+    width: 49%;
+align-items: center;
+border: 1px solid white;
+float: left;
+margin-top: 0rem
+}
+.third-image-containe img{
+    float: right;
+}
+
+.button-two {
+    position: absolute;
+    top: 113rem;
+    left: 47rem;
+    transform: translate(-50%, -50%);
+    
+
+}
+
+.btnt {
+    border: 2px solid rgb(118, 26, 26);
+    text-decoration: none;
+    padding: 0.8rem 1rem;
+    color: black
+    ;
+    transition: 0.6s ease;
+}
+
+.btnt:hover {
+    background-color: burlywood;
+    color:white;
+}
+
